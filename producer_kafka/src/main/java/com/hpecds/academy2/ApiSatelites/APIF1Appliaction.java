@@ -1,0 +1,21 @@
+package com.hpecds.academy2.ApiSatelites;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.Bean;
+import org.springframework.web.client.RestTemplate;
+
+
+@SpringBootApplication
+public class APIF1Appliaction {
+
+	public static void main(String[] args) {
+		SpringApplication.run(APIF1Appliaction.class, args);
+	}
+
+	@Bean
+	public RestTemplate restTemplate() {
+	    return new RestTemplate();
+	}
+
+}

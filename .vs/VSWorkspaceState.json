@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\api_satellites_producer",
+    "\\api_satellites_producer\\src",
+    "\\api_satellites_producer\\src\\main",
+    "\\api_satellites_producer\\src\\main\\java\\com",
+    "\\api_satellites_producer\\src\\main\\java\\com\\hpecds",
+    "\\api_satellites_producer\\src\\main\\java\\com\\hpecds\\academy2",
+    "\\api_satellites_producer\\src\\main\\java\\com\\hpecds\\academy2\\ApiSatelites",
+    "\\api_satellites_producer\\src\\main\\java\\com\\hpecds\\academy2\\ApiSatelites\\model",
+    "\\api_satellites_producer\\src\\main\\resources",
+    "\\consumer_kafka"
+  ],
+  "SelectedNode": "\\consumer_kafka\\Dockerfile",
+  "PreviewInSolutionExplorer": false
+}
